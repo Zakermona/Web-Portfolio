@@ -36,3 +36,8 @@ h1{
 section{
     height: 500px;
 }
+.bg{
+    background-image: url("images/dream-bg.png");
+    background-position: right;
+    background-repeat: no-repeat;
+}
